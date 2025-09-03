@@ -11,3 +11,5 @@
 <br> 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) | [![My Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Portfolio)  |                      
 |---|---|---|
+
+![image_alt](https://github.com/DeviprasadShetty9833/My_Website/blob/26f976ac2627a1eda4f0050e306ca19d8e0a3099/Hero.png)
