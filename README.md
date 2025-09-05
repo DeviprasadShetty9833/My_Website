@@ -18,4 +18,4 @@
 
 
 Changes:
-- In the hero section, Remove the rotating web, Put an animated computer guy using ASCII.
+- In the hero section, Remove the rotating web, Print '.' in the hero section such that fades downward. Put an animated computer guy using ASCII.
