@@ -15,3 +15,7 @@
 ---
 
 ![image_alt](https://github.com/DeviprasadShetty9833/My_Website/blob/26f976ac2627a1eda4f0050e306ca19d8e0a3099/Hero.png)
+
+
+Changes:
+- In the hero section, Remove the rotating web, Put an animated computer guy using ASCII.
