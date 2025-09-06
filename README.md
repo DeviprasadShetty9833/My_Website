@@ -16,7 +16,7 @@
 
 ![image_alt](https://github.com/DeviprasadShetty9833/My_Website/blob/26f976ac2627a1eda4f0050e306ca19d8e0a3099/Hero.png)
 
-About section: Flexbox
+About section: S shaped Flexbox
 <br> |Acad-|----------Passion----------
 <br> |emics|-----Who I Am-----|Current|
 <br> -----Call-to-Action------|Work   |
