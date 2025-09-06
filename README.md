@@ -17,9 +17,9 @@
 ![image_alt](https://github.com/DeviprasadShetty9833/My_Website/blob/26f976ac2627a1eda4f0050e306ca19d8e0a3099/Hero.png)
 
 About section: Flexbox
-<br> |Acad-|-----Passion-----
+<br> |Acad-|----------Passion----------
 <br> |emics|-----Who I Am-----|Current|
-<br> ---Call-to-Action---|Work|
+<br> -----Call-to-Action------|Work   |
 
 Changes:
 - In the hero section, Remove the rotating web, Print '.' in the hero section such that fades downward. Put an animated computer guy using ASCII.
