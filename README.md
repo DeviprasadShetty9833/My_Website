@@ -17,9 +17,9 @@
 ![image_alt](https://github.com/DeviprasadShetty9833/My_Website/blob/26f976ac2627a1eda4f0050e306ca19d8e0a3099/Hero.png)
 
 About section: Flexbox
---Academics---||
-||--Who I Am---||
-||-----
+-----Academics-----||
+||----Who I Am-----||
+||--Call-to-Action---
 
 Changes:
 - In the hero section, Remove the rotating web, Print '.' in the hero section such that fades downward. Put an animated computer guy using ASCII.
@@ -27,4 +27,4 @@ Changes:
 - - Academic journey
 - - Who I Am (2–3 lines) -> current role, field of study & what drives you.
 Example: “I’m an IT engineering student passionate about building intelligent systems that merge software and innovation.”
-- - 
+- - Call-to-Action
