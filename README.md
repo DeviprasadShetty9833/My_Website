@@ -25,7 +25,7 @@ Changes:
 - In the hero section, Remove the rotating web, Print '.' in the hero section such that fades downward. Put an animated computer guy using ASCII.
 - In About section, use flexbox
 - - Passion
-- - Academic journey
+  - Academic journey
   - Who I Am (2–3 lines) -> current role, field of study & what drives you.
 Example: “I’m an IT engineering student passionate about building intelligent systems that merge software and innovation.”
   - Currently Working 
